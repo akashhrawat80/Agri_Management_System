@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Insurance Premium</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <th>Insurance Company</th>
+            <td id="company"></td>
+        </tr>
+        <tr>
+            <th>Crop</th>
+            <td id="crop"></td>
+        </tr>
+        <tr>
+            <th>Area</th>
+            <td id="area"></td>
+        </tr>
+        <tr>
+            <th colspan="2">premium paid by</th>
+        </tr>
+        <tr>
+            <td>farmer(Rs)</td>
+            <td>Government(Rs)</td>
+        </tr>
+        <tr>
+            <td id="pref"></td>
+            <td id="preg"></td>
+        </tr>
+         <tr>
+            <th>Sum Assured(Ruppees/Hectare)</th>
+            <td id="sum"></td>
+        </tr>
+
+    </table>
+
+    <script>
+        var company;
+        var sum;
+        var crop;
+        var area;
+        var pref;
+        var preg;
+        sum=pref+preg;
+        document.getElementById("#company").innerHTML=company;
+        document.getElementById("#sum").innerHTML=sum;
+        document.getElementById("#crop").innerHTML=crop;
+        document.getElementById("#area").innerHTML=area;
+        document.getElementById("#pref").innerHTML=pref;
+        document.getElementById("#preg").innerHTML=preg;
+
+
+
+    </script>
+</body>
+</html>

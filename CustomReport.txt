@@ -1,0 +1,23 @@
+Animal Name
+Alternate Name
+Birth Health Code
+Breed
+Breeding Stock
+Color
+Current Status
+Dam
+Dam-Alt Name
+Date Entered
+Date of Birth
+Date of Death
+Days Confined
+Electronic ID
+Gender
+General Index
+Group
+In Service
+Location
+Loss Reason
+Management Code
+Maternal Index
+Notation Date

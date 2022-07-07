@@ -1,0 +1,6 @@
+Free-Stall Barn
+North Pasture
+Bull,s Pasture
+Dairy Barn
+Calf Shed
+South Barn
